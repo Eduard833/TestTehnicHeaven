@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-01T11:10:45 EEST" name="Default suite" finished-at="2022-04-01T11:13:22 EEST" duration-ms="157071">
+    <groups>
+    </groups>
+    <test started-at="2022-04-01T11:10:45 EEST" name="Default test" finished-at="2022-04-01T11:13:22 EEST" duration-ms="157071">
+      <class name="testNG.SignUpTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:10:45 EEST" name="openBrowser" finished-at="2022-04-01T11:10:56 EEST" duration-ms="11306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="EmptyInputTest()[pri:1, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:10:56 EEST" name="EmptyInputTest" finished-at="2022-04-01T11:10:58 EEST" duration-ms="2385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmptyInputTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:10:58 EEST" name="CloseBrowser" finished-at="2022-04-01T11:11:01 EEST" duration-ms="2560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:01 EEST" name="openBrowser" finished-at="2022-04-01T11:11:11 EEST" duration-ms="10251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="FormatFirstName()[pri:2, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:11 EEST" name="FormatFirstName" finished-at="2022-04-01T11:11:13 EEST" duration-ms="2165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormatFirstName -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:13 EEST" name="CloseBrowser" finished-at="2022-04-01T11:11:19 EEST" duration-ms="6200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:19 EEST" name="openBrowser" finished-at="2022-04-01T11:11:28 EEST" duration-ms="8687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="FormatLastName()[pri:3, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:28 EEST" name="FormatLastName" finished-at="2022-04-01T11:11:30 EEST" duration-ms="2191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormatLastName -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:30 EEST" name="CloseBrowser" finished-at="2022-04-01T11:11:33 EEST" duration-ms="2191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:33 EEST" name="openBrowser" finished-at="2022-04-01T11:11:41 EEST" duration-ms="8283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="EmailFormatTest()[pri:4, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:41 EEST" name="EmailFormatTest" finished-at="2022-04-01T11:11:43 EEST" duration-ms="2150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailFormatTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:43 EEST" name="CloseBrowser" finished-at="2022-04-01T11:11:49 EEST" duration-ms="6155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:49 EEST" name="openBrowser" finished-at="2022-04-01T11:11:59 EEST" duration-ms="9459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="PasswordFormatTest()[pri:5, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:11:59 EEST" name="PasswordFormatTest" finished-at="2022-04-01T11:12:01 EEST" duration-ms="2135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswordFormatTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:01 EEST" name="CloseBrowser" finished-at="2022-04-01T11:12:07 EEST" duration-ms="6187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:07 EEST" name="openBrowser" finished-at="2022-04-01T11:12:16 EEST" duration-ms="8756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="PasswordConfirmFormatTest()[pri:6, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:16 EEST" name="PasswordConfirmFormatTest" finished-at="2022-04-01T11:12:18 EEST" duration-ms="2242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswordConfirmFormatTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:18 EEST" name="CloseBrowser" finished-at="2022-04-01T11:12:24 EEST" duration-ms="6167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:24 EEST" name="openBrowser" finished-at="2022-04-01T11:12:34 EEST" duration-ms="10313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="PasswordFieldTest()[pri:7, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:34 EEST" name="PasswordFieldTest" finished-at="2022-04-01T11:12:36 EEST" duration-ms="2055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswordFieldTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:36 EEST" name="CloseBrowser" finished-at="2022-04-01T11:12:43 EEST" duration-ms="6181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:43 EEST" name="openBrowser" finished-at="2022-04-01T11:12:53 EEST" duration-ms="10755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="ValidRegistrationTest()[pri:8, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:53 EEST" name="ValidRegistrationTest" finished-at="2022-04-01T11:12:56 EEST" duration-ms="2512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidRegistrationTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:12:56 EEST" name="CloseBrowser" finished-at="2022-04-01T11:13:02 EEST" duration-ms="6147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:13:02 EEST" name="openBrowser" finished-at="2022-04-01T11:13:13 EEST" duration-ms="11257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="TestLogInLink()[pri:9, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:13:13 EEST" name="TestLogInLink" finished-at="2022-04-01T11:13:15 EEST" duration-ms="2107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogInLink -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testNG.SignUpTest@2c767a52]" started-at="2022-04-01T11:13:15 EEST" name="CloseBrowser" finished-at="2022-04-01T11:13:22 EEST" duration-ms="6214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testNG.SignUpTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
